@@ -3,6 +3,7 @@
 
 import re
 import secrets
+import string
 import stri#!/usr/bin/env python3
 ng
 from tkinter import *
