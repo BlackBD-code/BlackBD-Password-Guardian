@@ -1,11 +1,10 @@
+#!/usr/bin/env python3
 # BlackBD Password Guardian
 # Gift for 69k Community by BlackBD Cyber Security
 
 import re
 import secrets
 import string
-import stri#!/usr/bin/env python3
-ng
 from tkinter import *
 from tkinter import ttk, messagebox
 
